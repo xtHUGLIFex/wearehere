@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Пользователь\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.5\dc65bb2f51828c58b1b2b3ac585357204d54ee5f\gdx-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dc65bb2f51828c58b1b2b3ac585357204d54ee5f">
+        <dex dex="D:\Droping1\android\build\intermediates\pre-dexed\release\gdx-1.9.5_d04744828677244fe8fffdb634081469364af485.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Пользователь\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.5\dc65bb2f51828c58b1b2b3ac585357204d54ee5f\gdx-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dc65bb2f51828c58b1b2b3ac585357204d54ee5f">
+        <dex dex="D:\Droping1\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-1.9.5_d04744828677244fe8fffdb634081469364af485\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Droping1\android\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="35c2403c072204218e04d93f19632acff4ea62c7">
+        <dex dex="D:\Droping1\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4a8b7f456f7a1689dd96c097531f0eda50558779\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Пользователь\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.5\293bbe05bfb5ca812c849e4d1f494f56509d5a6e\gdx-backend-android-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="293bbe05bfb5ca812c849e4d1f494f56509d5a6e">
+        <dex dex="D:\Droping1\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-backend-android-1.9.5_b52ff1b305ba32fde88abbaa6226860b8374b969\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Пользователь\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.5\293bbe05bfb5ca812c849e4d1f494f56509d5a6e\gdx-backend-android-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="293bbe05bfb5ca812c849e4d1f494f56509d5a6e">
+        <dex dex="D:\Droping1\android\build\intermediates\pre-dexed\release\gdx-backend-android-1.9.5_b52ff1b305ba32fde88abbaa6226860b8374b969.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Droping1\android\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fee264cb0edf5d69c5d0247c07eb7d1d922c7bc3">
+        <dex dex="D:\Droping1\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_527543a9a5b27afa12a8f5f0c6211e8c27b1c043\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Droping1\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="acbe9dfaff5668553c55a09797395f88b077565c">
+        <dex dex="D:\Droping1\android\build\intermediates\pre-dexed\release\core-1.0_9dffcc2c21a3da0cc2d3956a06faa3d2faa62ede.jar" />
+    </item>
+
+</items>
